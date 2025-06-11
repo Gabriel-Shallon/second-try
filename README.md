@@ -1,4 +1,4 @@
-///////////////// COMO USAR /////////////////
+COMO USAR
 
 
 1. Coloque seu arquivo de cookies do twitter aqui em formato .txt (x.com_cookies.txt) (Possível de se fazer usando extensão get cookies e abrindo a página do twitter).
